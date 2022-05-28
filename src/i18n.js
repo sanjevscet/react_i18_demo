@@ -13,14 +13,17 @@ i18n
           welcome: "Welcome {{name}}",
           count_zero: "{{count}} book",
           count_one: "{{count}} book",
-          count_other: "{{count}} books"
+          count_other: "{{count}} books",
+          selectLanguage: "Select Language"
         }
       },
       hi: {
         translations: {
-            welcome: "Swagat {{name}}",
-            keyWithCount: "Sanjeev ne {{count}} kitab kharidi",
-            keyWithCount_plural: "Sanjeev ne {{count}} kitaben kharidi",
+            welcome: "स्वागत है, {{name}}",
+            count_zero: "कोई किताब नहीं",
+            count_one: "एक किताब",
+            count_other: "{{count}} किताबें",
+            selectLanguage: "भाषा चुने"
           }
       }
     },
